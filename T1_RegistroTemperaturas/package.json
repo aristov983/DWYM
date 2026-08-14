@@ -1,0 +1,20 @@
+{
+  "name": "t1_registrotemperaturas",
+  "version": "1.0.0",
+  "description": "Sistema de registro de temperatura con sistema udp y funcionalidades de consulta tcp",
+  "homepage": "https://github.com/aristov983/DWYM#readme",
+  "bugs": {
+    "url": "https://github.com/aristov983/DWYM/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aristov983/DWYM.git"
+  },
+  "license": "ISC",
+  "author": "Emmanuel Aristov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
